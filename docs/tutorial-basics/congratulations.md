@@ -1,5 +1,9 @@
 ---
 sidebar_position: 6
+id: tutorial-basics/congratulations
+title: Congratulations
+hide_title: true
+hide_table_of_contents: true
 ---
 
 # Congratulations!
