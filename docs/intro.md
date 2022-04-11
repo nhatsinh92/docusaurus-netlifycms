@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: /intro
+id: intro
 title: Tutorial Intro
 hide_title: false
 hide_table_of_contents: false
